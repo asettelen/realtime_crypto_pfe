@@ -1,0 +1,4 @@
+#pandas==0.25.2
+#pyarrow==0.16.0
+google-cloud-bigquery
+google-api-core

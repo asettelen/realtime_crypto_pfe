@@ -1,0 +1,2 @@
+google_cloud_dataproc==0.6.1
+google-api-core[grpc]
